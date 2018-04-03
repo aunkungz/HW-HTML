@@ -1,0 +1,48 @@
+body {background-color: #048c5a;}
+
+.section-h {
+ 
+ height: 50px;
+
+
+
+}
+#color-w {
+
+	color: #fff;
+
+
+
+}
+
+.section-h2 {
+	height: 350px;
+	background-color: #048c5a;
+
+}
+
+h2 {	
+	color: #5a8242;
+
+
+}
+
+h1 {	
+	color: #000;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 60px;
+
+}
+
+h4{	
+	color: #777777;
+	
+}
+
+.container {
+	background-color: #fff;
+}
+
+#w {
+	background-color: #000;
+}
